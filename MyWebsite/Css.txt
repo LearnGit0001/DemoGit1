@@ -1,1 +1,2 @@
 Hi form Linh001
+git checkout -d branchname: from linh
