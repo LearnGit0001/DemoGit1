@@ -1,2 +1,3 @@
 Hi form Linh001
-git checkout -d branchname: from linh (linh001 added)
+
+git checkout -d branchname: from linh (linh added)
