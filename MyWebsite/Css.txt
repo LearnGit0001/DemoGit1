@@ -1,4 +1,5 @@
 Hi form Linh001
 
 git checkout -d branchname: from linh (linh1 added)
-linh
+linh001
+
