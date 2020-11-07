@@ -1,4 +1,12 @@
+
+To find the 4rd text input field on a page:
+(//input[@type="text"])[4]
 Map created
-
-
 map1
+(//input[@type="text"])[4]
+linh
+linh
+linh
+linh
+linh.
+
